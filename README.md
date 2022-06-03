@@ -1,6 +1,8 @@
 # Kratos-Card
-Um Card do Gof Of War
-Uma introdução aos projetos da DIO.
+
+#Um Card do God Of War
+
+#Uma introdução aos projetos da DIO.
 
 #Dio
 
